@@ -58,6 +58,12 @@ a {
   padding: 0.1em 1em;
   border-radius: 10px;
   margin: -0.1em;
+
+  &:hover {
+    text-decoration: none;
+    background-color: rgb(219, 39, 39);
+    color: white;
+  }
 }
 
 .boy-boxing {
@@ -195,4 +201,5 @@ footer {
 .term {
     display: flex;
     gap: 1.5em;
+    font-weight: 100;
 }
