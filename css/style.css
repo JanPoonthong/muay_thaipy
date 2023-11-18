@@ -176,6 +176,7 @@ footer h2 span {
   display: flex;
   color: white;
   justify-content: space-between;
+  align-items: center;
 }
 
 .email {
